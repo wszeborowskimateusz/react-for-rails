@@ -1,0 +1,28 @@
+{
+  "name": "react-for-rails",
+  "version": "0.0.1",
+  "description": "npm package for ReactForRails ruby gem",
+  "main": "node_package/src/ReactForRails.js",
+  "files": [
+    "node_package/src"
+  ],
+  "peerDependencies": {
+    "react": ">= 18",
+    "react-dom": ">= 18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wszeborowskimateusz/react-for-rails.git"
+  },
+  "keywords": [
+    "react",
+    "rails",
+    "ruby"
+  ],
+  "author": "wszeborowskimateusz@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wszeborowskimateusz/react-for-rails/issues"
+  },
+  "homepage": "https://github.com/wszeborowskimateusz/react-for-rails#readme"
+}
